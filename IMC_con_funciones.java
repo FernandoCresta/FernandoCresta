@@ -72,7 +72,7 @@ public class IMC_con_funciones {
                 continuar = new Scanner(System.in).next().charAt(0);
 
             } while (continuar == 's' || continuar == 'S');
-            mostrarCartel("Gracias por usar nuestro calculardor IMC", ANSI_PURPLE);
+            mostrarCartel("Gracias por usar nuestro calculador IMC", ANSI_PURPLE);
 
         }
     }
